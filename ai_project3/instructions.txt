@@ -1,0 +1,18 @@
+Instructions
+
+1) Use g++ main.cpp to compile it as long as the two header files are in the
+   same directory
+
+2) Run the executable, taking in integer arguments in order:
+   width height min max seconds
+   For example, running a 5x5 from 1-5 movement for 2 minutes would use:
+   a.out 5 5 1 5 120
+
+3) To run the alternative hillclimbing algorithm specificed in my writeup, add
+   a final argument that can be anything:
+   a.out 5 5 1 5 120 x
+   Although this is better, most of my project is still based on the genetic 
+   algorithm
+
+*Sorry about not having a makefile, I could not figure out how to make one that
+had just one cpp file and two headers.

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ai_project3", "ai_project3\ai_project3.vcxproj", "{7EBF0417-D54D-4546-823C-673BD56EA7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBF0417-D54D-4546-823C-673BD56EA7EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EBF0417-D54D-4546-823C-673BD56EA7EC}.Debug|Win32.Build.0 = Debug|Win32
+		{7EBF0417-D54D-4546-823C-673BD56EA7EC}.Release|Win32.ActiveCfg = Release|Win32
+		{7EBF0417-D54D-4546-823C-673BD56EA7EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
