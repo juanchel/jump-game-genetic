@@ -1,1 +1,1 @@
-Old project from schools that uses a genetic algorithm to play the "jump game"
+Old project from school that uses a genetic algorithm to play the "jump game"
